@@ -1,39 +1,5 @@
-# Projet THP
-Projet de Alexandre Labonne (@Lab's) et Brice Jones (@brice)
+Aujourd'hui, c'est ton dernier cours 100 % axé POO. À partir de là, tu la mettras en pratique au quotidien pour organiser ta pensée et donc ton code : tu ne coderas QUE dans des classes et tu devras privilégier au maximum la création d'objets (plutôt que de créer des variables en l'air, sans objet) quand c'est possible.
 
+Le reste de la semaine sera l'occasion de te faire pratiquer la POO avant que vendredi on prenne encore un peu plus de recul dans l'organisation du code : on te présentera un moyen de ranger tes classes selon leur fonction. C'est le principe de l'architecture MVC sur laquelle Rails est basée.
 
-## Object
-It's a tic-tac-toe game for 2 players. The board it's just 9 cases.
-The game ask your name and the choice of the token.
-
-Therefore, start the game with the first player: just input the board coordinate.
-Up and left is the A1 case. Down right is the C3 case.
-
-At the end, two options: even or one player win.
-
-## Getting Started
-```
-# Clone this repository
-$ git clone git@github.com:notmoebius/sem3j4.git
-
-# Go into the repository
-$ cd sem3j4
-
-# Install dependencies
-$ bundle install
-```
-
-### Example
-Few instructions to begin to play:
-- run the app:
-
-```
-$ ruby app.rb
-```
-- launch the method: Application.new.perform
-- launch game methods
-
-
-### Miscellaneous
-- no test today, it' a shame !!
 
